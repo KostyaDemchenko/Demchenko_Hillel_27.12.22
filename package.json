@@ -1,0 +1,29 @@
+{
+  "name": "demchenko_hillel_27.12.22",
+  "version": "1.0.0",
+  "description": "Creating repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostyaDemchenko/Demchenko_Hillel_27.12.22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostyaDemchenko/Demchenko_Hillel_27.12.22/issues"
+  },
+  "homepage": "https://github.com/KostyaDemchenko/Demchenko_Hillel_27.12.22#readme",
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+    "home":{
+      "eslint": "^8.30.0",
+      "eslint-config-airbnb-base": "^15.0.0",
+      "eslint-plugin-import": "^2.26.0"
+    }
+}
